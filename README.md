@@ -1,12 +1,29 @@
+<!-- 
+____________________________________________________________________________________________________________________________________________________________________
+HEY THERE ! :)
+
+If you have come here after seeing profile to know how this stuff is happening let me help you out ! I have refered the sites below to make my README.md page enjoy !
+
+RESOURCES :-
+ALL API and Stuff : https://github.com/abhisheknaiidu/awesome-github-profile-readme#icons-
+EMOJIS : https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md#computer
+MARKDOWN : https://dillinger.io/
+
+Please leave a star for me if that helped ! :)
+____________________________________________________________________________________________________________________________________________________________________
+-->
+
+<!-- HEADER -->
+<div align="center">
+<h1 align="center">:name_badge:  Sanidhya Sharma</h1>
+</div>
+  
+<br/>
+  
 <!-- WELCOME TO MY GITHUB PROFILE BANNER -->
 <div align="center">
   <img src="https://github.com/Sanidhya-Sharma/Sanidhya-Sharma/blob/main/src/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" />
 </div>
-
-<!-- HEADER -->
-<h1 align="center">:name_badge:  Sanidhya Sharma</h1>
-
-  
 <br />
 
 <div align="center">
@@ -131,9 +148,9 @@ Look ! :eye_speech_bubble: Its our ![Visitor Count](https://profile-counter.glit
 <div align="center">
   
 <!--  CODING LANGUAGE TOOLS  -->
-  
 ## Languages and Tools<br>
-  
+![Keras](https://img.shields.io/badge/Keras-2.7.1-red)
+![TensorFlow](https://img.shields.io/badge/Tensorflow-v2.9.1-orange)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
@@ -180,10 +197,5 @@ Look ! :eye_speech_bubble: Its our ![Visitor Count](https://profile-counter.glit
 </div>
   
 <div align="center">
-  <img height="120" alt="Thanks for visiting me :sunglasses:" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+  <img height="120" alt="Thanks for visiting me :sunglasses:" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg"/>
 </div>
-
-<!---
-Sanidhya-Sharma/Sanidhya-Sharma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
