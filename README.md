@@ -65,10 +65,25 @@ Look ! :eye_speech_bubble: Its our ![Visitor Count](https://profile-counter.glit
 <br />
 
 <div align="center">
+  
+<h2> Skills</h2>
+<a href= https://github.com/Sanidhya-Sharma?tab=repositories&q=&type=&language=python&sort= > <img width ='40px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
+<a href= https://github.com/Sanidhya-Sharma?tab=repositories&q=&type=&language=javascript&sort= > <img width ='40px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
+<a href= https://github.com/Sanidhya-Sharma?tab=repositories&q=&type=&language=sqlite&sort= > <img width ='40px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/sqlite.svg'> </a>
+<a href= https://github.com/Sanidhya-Sharma?tab=repositories&q=&type=&language=java&sort= > <img width ='40px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/java.svg'> </a>
+<a href= https://github.com/Sanidhya-Sharma?tab=repositories&q=&type=&language=bootstrap&sort= > <img width ='40px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/bootstrap.svg'> </a>
+<a href= https://github.com/Sanidhya-Sharma?tab=repositories&q=&type=&language=mysql&sort= > <img width ='40px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mysql.svg'> </a>
+<a href= https://github.com/Sanidhya-Sharma?tab=repositories&q=&type=&language=opencv&sort= > <img width ='40px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/opencv.svg'> </a>
+<a href= https://github.com/Sanidhya-Sharma?tab=repositories&q=&type=&language=github&sort= > <img width ='40px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg'> </a>
+</div>
+
+<div align="center">
 
 <!-- DYNAMIC PROFILE STATS -->
-## Check this Out !
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sanidhya-Sharma)](https://github.com/anuraghazra/github-readme-stats)
+## Profile Stats !
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sanidhya-Sharma&show_icons=true&locale=en&layout=compact" alt="Sanidhya-Sharma" /></p>
+  
+[![Sanidhya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sanidhya-Sharma)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
   
@@ -113,23 +128,39 @@ Look ! :eye_speech_bubble: Its our ![Visitor Count](https://profile-counter.glit
 <br />
 <br />
   
-
+<div align="center">
+  
 <!--  CODING LANGUAGE TOOLS  -->
-## Languages and Tools:
-<a href="https://www.w3.org/html/" target="_blank"><img align="left" alt="HTML5" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></a>
   
-<a href="https://www.w3schools.com/css/" target="_blank"><img align="left" alt="CSS3" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /></a>
+## Languages and Tools<br>
   
-<a href="https://www.python.org" target="_blank"> <img align="left" alt="Python" width="50px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/python-5.svg?raw=true"/> </a>
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
+![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
+![Atom](https://img.shields.io/badge/Atom-%2366595C.svg?style=for-the-badge&logo=atom&logoColor=white)
+![CodePen](https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black)
+![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
+![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)
   
-<a href="https://git-scm.com/" target="_blank"> <img align="left" alt="git" width="50px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/> </a>
+</div>
   
-<img align="left" alt="GitHub" width="50px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/github.svg" />
-
 <br />
 <br />
 <br />
-
 
 <div align="center">
   
