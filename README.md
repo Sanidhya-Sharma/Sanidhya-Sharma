@@ -34,14 +34,14 @@
 
 <!-- OLD COUNTER VISITOR -->
 
-Hello ![Visitor Count](https://profile-counter.glitch.me/Sanidhya-Sharma/count.svg) Visitor! 
+Look ! :eye_speech_bubble: Its our ![Visitor Count](https://profile-counter.glitch.me/Sanidhya-Sharma/count.svg) Visitor! 
 
 <br />
 
 <!-- STATIC PERSONAL INFORMATION -->
 ## Personal Information
 - Name :smiley: : Sanidhya Sharma 
-- Designation :technologist: : Senior Product Developer (UI/UX and Data Scientist)
+- Current Designation :technologist: : Senior Product Developer (UI/UX and Data Scientist)
 - Email :e-mail: : Sanidhya.sh14@gmail.com
 - Gender : Male :male_sign:
 - Zodiac : Cancerain :cancer:
@@ -54,11 +54,13 @@ Hello ![Visitor Count](https://profile-counter.glitch.me/Sanidhya-Sharma/count.s
 - Intrested in EDA (Data Wranglinga and Visualization), Machine Learning (Linear Regression, KNN, Logistic Regression, Random forest, SVM, Bragging&Boosting Random Forest, PCA) and Deep Learning (CNNs, RNNs and GANs)
 - Hobbies : Playing Guitar :guitar: , Casual Gaming :space_invader:  and Amature Astronomy :artificial_satellite:
 
+<br />
+
 ## Side Activities 
-- Smoking :x:
-- Drinking :x:
-- Workout :heavy_check_mark:
-- Code :heavy_check_mark:
+- Smoking :smoking: :x:
+- Drinking :clinking_glasses: :warning: (occationally)
+- Workout :weight_lifting_man: :heavy_check_mark:
+- Code :computer: :heavy_check_mark:
 
 <br />
 
@@ -100,28 +102,31 @@ Hello ![Visitor Count](https://profile-counter.glitch.me/Sanidhya-Sharma/count.s
 
 <!-- SOCIAL MEDIA ICONS AND LINKS -->
 ## Get in touch ! Social Media
-<a href="https://sanidhya-sharma-resume.herokuapp.com/" target="_blank"><img align="left" alt="Sanidhya-Sharma-resume" width="30px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/www.svg" /></a>
-<a href="https://linkedin.com/in/sanidhya-sharma-/" target="_blank"><img align="left" alt="Sanidhya Sharma | LinkedIn" width="30px" src="https://github.com/Sanidhya-Sharma/Sanidhya-Sharma/blob/main/src/linkedin.svg" />
-  <a href="https://www.youtube.com/channel/UCdMPQHqmeu5GckK3v29DeBg" target="_blank"><img align="left" alt="Sanidhya Sharma | Twitter" width="30px" src="https://github.com/Sanidhya-Sharma/Sanidhya-Sharma/blob/main/src/youtube.svg" />
-<a href="https://instagram.com/sanidhya__sharma" target="_blank"><img align="left" alt="Sanidhya Sharma| Instagram" width="30px" src="https://github.com/Sanidhya-Sharma/Sanidhya-Sharma/blob/main/src/instagram.svg" />
-<a href="https://www.facebook.com/sanidhya1996/" target="_blank"><img align="left" alt="Sanidhya Sharma | Twitter" width="30px" src="https://github.com/Sanidhya-Sharma/Sanidhya-Sharma/blob/main/src/facebook.svg" />
-<a href="https://twitter.com/_SanidhyaSharma" target="_blank"><img align="left" alt="Sanidhya Sharma | Twitter" width="30px" src="https://github.com/Sanidhya-Sharma/Sanidhya-Sharma/blob/main/src/twitter.svg" />
-<br />
-<br />
+<a href="https://sanidhya-sharma-resume.herokuapp.com/" target="_blank"><img align="left" alt="Sanidhya-Sharma-resume" width="50px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/www.svg" /></a>
+<a href="https://linkedin.com/in/sanidhya-sharma-/" target="_blank"><img align="left" alt="Sanidhya Sharma | LinkedIn" width="50px" src="https://github.com/Sanidhya-Sharma/Sanidhya-Sharma/blob/main/src/linkedin.svg" />
+  <a href="https://www.youtube.com/channel/UCdMPQHqmeu5GckK3v29DeBg" target="_blank"><img align="left" alt="Sanidhya Sharma | Twitter" width="50px" src="https://github.com/Sanidhya-Sharma/Sanidhya-Sharma/blob/main/src/youtube.svg" />
+<a href="https://instagram.com/sanidhya__sharma" target="_blank"><img align="left" alt="Sanidhya Sharma| Instagram" width="50px" src="https://github.com/Sanidhya-Sharma/Sanidhya-Sharma/blob/main/src/instagram.svg" />
+<a href="https://www.facebook.com/sanidhya1996/" target="_blank"><img align="left" alt="Sanidhya Sharma | Twitter" width="50px" src="https://github.com/Sanidhya-Sharma/Sanidhya-Sharma/blob/main/src/facebook.svg" />
+<a href="https://twitter.com/_SanidhyaSharma" target="_blank"><img align="left" alt="Sanidhya Sharma | Twitter" width="50px" src="https://github.com/Sanidhya-Sharma/Sanidhya-Sharma/blob/main/src/twitter.svg" />
 
+<br />
+<br />
+<br />
   
 
 <!--  CODING LANGUAGE TOOLS  -->
 ## Languages and Tools:
-<a href="https://www.w3.org/html/" target="_blank"><img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></a>
+<a href="https://www.w3.org/html/" target="_blank"><img align="left" alt="HTML5" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></a>
   
-<a href="https://www.w3schools.com/css/" target="_blank"><img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /></a>
+<a href="https://www.w3schools.com/css/" target="_blank"><img align="left" alt="CSS3" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /></a>
   
-<a href="https://www.python.org" target="_blank"> <img align="left" alt="Python" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/python-5.svg?raw=true"/> </a>
+<a href="https://www.python.org" target="_blank"> <img align="left" alt="Python" width="50px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/python-5.svg?raw=true"/> </a>
   
-<a href="https://git-scm.com/" target="_blank"> <img align="left" alt="git" width="26px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/> </a>
+<a href="https://git-scm.com/" target="_blank"> <img align="left" alt="git" width="50px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/> </a>
   
-<img align="left" alt="GitHub" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/github.svg" />
+<img align="left" alt="GitHub" width="50px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/github.svg" />
+
+<br />
 <br />
 <br />
 
