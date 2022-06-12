@@ -100,11 +100,12 @@ Hello ![Visitor Count](https://profile-counter.glitch.me/Sanidhya-Sharma/count.s
 
 <!-- SOCIAL MEDIA ICONS AND LINKS -->
 ## Get in touch ! Social Media
-(Use dark theme to find my socials ;)
-<a href="https://sanidhya-sharma-resume.herokuapp.com/" target="_blank"><img align="left" alt="Sanidhya-Sharma-resume" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/www.svg" /></a>
-<a href="https://linkedin.com/in/sanidhya-sharma-/" target="_blank"><img align="left" alt="Sanidhya Sharma | LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" />
-<a href="https://instagram.com/sanidhya__sharma" target="_blank"><img align="left" alt="Sanidhya Sharma| Instagram" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/insta.svg" />
-<a href="https://twitter.com/Aakarsh-Bhttps://www.w3.org/html/" target="_blank"><img align="left" alt="Sanidhya Sharma | Twitter" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/twitter.svg" />
+<a href="https://sanidhya-sharma-resume.herokuapp.com/" target="_blank"><img align="left" alt="Sanidhya-Sharma-resume" width="30px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/www.svg" /></a>
+<a href="https://linkedin.com/in/sanidhya-sharma-/" target="_blank"><img align="left" alt="Sanidhya Sharma | LinkedIn" width="30px" src="https://github.com/Sanidhya-Sharma/Sanidhya-Sharma/blob/main/src/linkedin.svg" />
+  <a href="https://www.youtube.com/channel/UCdMPQHqmeu5GckK3v29DeBg" target="_blank"><img align="left" alt="Sanidhya Sharma | Twitter" width="30px" src="https://github.com/Sanidhya-Sharma/Sanidhya-Sharma/blob/main/src/youtube.svg" />
+<a href="https://instagram.com/sanidhya__sharma" target="_blank"><img align="left" alt="Sanidhya Sharma| Instagram" width="30px" src="https://github.com/Sanidhya-Sharma/Sanidhya-Sharma/blob/main/src/instagram.svg" />
+<a href="https://www.facebook.com/sanidhya1996/" target="_blank"><img align="left" alt="Sanidhya Sharma | Twitter" width="30px" src="https://github.com/Sanidhya-Sharma/Sanidhya-Sharma/blob/main/src/facebook.svg" />
+<a href="https://twitter.com/_SanidhyaSharma" target="_blank"><img align="left" alt="Sanidhya Sharma | Twitter" width="30px" src="https://github.com/Sanidhya-Sharma/Sanidhya-Sharma/blob/main/src/twitter.svg" />
 <br />
 <br />
 
